@@ -1,0 +1,40 @@
+nav.navDesktop {
+  height: 60px;
+  font-size: 22px;
+  border-bottom: 3px solid #5C2FFE;
+  
+  div.navWrap {
+    display: flex;
+    max-width: 1180px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+
+    img.logo_main {
+      display: block;
+      height: 100%;
+    }
+
+    div.links {
+      display: flex;
+
+        .link {
+          text-decoration: none;
+          color: black;
+          line-height: 60px;
+          transition: .2s;
+          font-weight: 600;
+          margin: 0 30px;
+
+          &:hover {
+            color: #5C2FFE;
+          }
+        }
+      }
+
+  }
+
+
+
+  
+}
