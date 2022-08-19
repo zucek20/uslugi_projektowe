@@ -1,7 +1,13 @@
 nav.navDesktop {
   height: 60px;
-  font-size: 22px;
+  font-size: 20px;
   border-bottom: 3px solid #5C2FFE;
+  position: fixed;
+  top: 0;
+  background-color: white;
+  width: 100%;
+  z-index: 1;
+  box-shadow: 0 0 15px rgba(34, 34, 34, 0.329);
   
   div.navWrap {
     display: flex;
@@ -16,25 +22,20 @@ nav.navDesktop {
     }
 
     div.links {
-      display: flex;
+    display: flex;
 
-        .link {
-          text-decoration: none;
-          color: black;
-          line-height: 60px;
-          transition: .2s;
-          font-weight: 600;
-          margin: 0 30px;
+      .link {
+        text-decoration: none;
+        color: black;
+        line-height: 60px;
+        transition: .2s;
+        font-weight: 600;
+        margin: 0 20px;
 
-          &:hover {
-            color: #5C2FFE;
-          }
+        &:hover {
+          color: #5C2FFE;
         }
       }
-
+    }
   }
-
-
-
-  
 }

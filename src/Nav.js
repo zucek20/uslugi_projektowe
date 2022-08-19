@@ -8,12 +8,13 @@ export function Nav() {
     <nav className="navDesktop">
       <div className="navWrap">
 
-        <NavLink>
+        <NavLink to="/">
           <img className="logo_main" src={logo} alt="logo"/>
         </NavLink>
 
         <div className="links">
-          <NavLink className="link" to="projects">Zrealizowane projekty</NavLink>
+          <NavLink className="link" to="/">Oferta</NavLink>
+          <NavLink className="link" to="projects">Projekty</NavLink>
           <NavLink className="link" to="about">O mnie</NavLink>
           <NavLink className="link" to="contact">Kontakt</NavLink>
         </div>
