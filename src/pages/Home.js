@@ -8,7 +8,7 @@ export function Home() {
     <>
     <Animated>
 
-      <section className="wrapper">
+      <section className="home">
 
         <header>
           <h2>Profesjonalne <br/>usługi<br/> projektowe</h2>
