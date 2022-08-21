@@ -29,6 +29,7 @@ section.contact {
     justify-content: space-around;
     align-items: center;
     margin-bottom: 150px;
+    flex-direction: row;
    
 
     div {
@@ -47,6 +48,26 @@ section.contact {
         margin-top: 10px;
         text-align: center;
       }
+    }
+  }
+}
+
+@media screen and (max-width: 900px) {
+  section.contact {
+
+    header {
+      border-radius: 0px;
+      margin-bottom: 100px;
+
+      h2 {
+        font-size: 11vw;
+        line-height: 11vw;
+      }
+    }
+
+    figure {
+      flex-direction: column;
+      gap: 50px;
     }
   }
 }
