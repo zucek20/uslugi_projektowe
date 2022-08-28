@@ -16,7 +16,7 @@ export function About() {
             <p>Projektowaniem zajmujemy się od <b>1991 r</b>. Pierwsze kroki to: tradycyjnie deska kreślarska, rapidograf i duże biuro projektowe.</p>
           </article>
           <article>
-            <h3>Modernizacja</h3>
+            <h3>Stan obecny</h3>
             <p>Po jakimś czasie komputer, programy kreślarskie i obliczeniowe. Początki projektowania od domów jednorodzinnych następnie budynki wielorodzinne, zakłady produkcyjne, sportowe itp. Obecnie posiadamy oprogramowanie ZwCad, BricsCad, Robot, ABC i wiele innych.</p>
           </article>
           <article>

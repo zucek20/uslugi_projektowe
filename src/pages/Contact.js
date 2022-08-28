@@ -15,7 +15,7 @@ export function Contact() {
         <figure>
           <div>
             <img src={phone} alt="phone icon" />
-            <p><b>Tel:</b> 606 103 136</p>
+            <p><b>Tel:</b> 605 103 136</p>
           </div>
           <div>
             <img src={mail} alt="mail icon" />
