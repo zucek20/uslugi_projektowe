@@ -99,6 +99,7 @@ div#menu.false {
       font-size: 30px;
       font-weight: bold;
       transition: .2s;
+      transform: translateY(-70px);
 
       &:hover {
         transform: scale(1.1);
