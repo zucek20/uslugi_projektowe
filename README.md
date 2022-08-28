@@ -13,3 +13,6 @@ I am also author of the design.
 
 ### License
 [The 3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause)
+
+### Deployment
+You can see this page [here](https://zucek20.github.io/uslugi_projektowe/).
