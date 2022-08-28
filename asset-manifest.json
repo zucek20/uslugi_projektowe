@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/uslugi_projektowe/static/css/main.b4f4544a.css",
+    "main.css": "/uslugi_projektowe/static/css/main.d3fb2cac.css",
     "main.js": "/uslugi_projektowe/static/js/main.8a4d7995.js",
     "static/media/gal5.JPG": "/uslugi_projektowe/static/media/gal5.a33ebf252d1259fc9f1d.JPG",
     "static/media/gal2.JPG": "/uslugi_projektowe/static/media/gal2.b14dc7c13a531347f55b.JPG",
@@ -22,11 +22,11 @@
     "static/media/engineer.jpg": "/uslugi_projektowe/static/media/engineer.591efeb2b4d877509689.jpg",
     "static/media/robot.png": "/uslugi_projektowe/static/media/robot.4c12e7bd19daec990203.png",
     "index.html": "/uslugi_projektowe/index.html",
-    "main.b4f4544a.css.map": "/uslugi_projektowe/static/css/main.b4f4544a.css.map",
+    "main.d3fb2cac.css.map": "/uslugi_projektowe/static/css/main.d3fb2cac.css.map",
     "main.8a4d7995.js.map": "/uslugi_projektowe/static/js/main.8a4d7995.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4f4544a.css",
+    "static/css/main.d3fb2cac.css",
     "static/js/main.8a4d7995.js"
   ]
 }
