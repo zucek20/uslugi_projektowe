@@ -7,7 +7,6 @@ import { Projects } from "./pages/Projects"
 import { NotFound } from "./pages/NotFound"
 import { Nav } from "./Nav"
 import { AnimatePresence } from "framer-motion"
-import { Navigate } from "react-router-dom"
 
 export default function App() {
   const location = useLocation();
@@ -20,8 +19,7 @@ export default function App() {
       <AnimatePresence exitBeforeEnter>
 
       <Routes key={location.pathname} location={location}>
-        <Route path="/404" element={<NotFound/>}/>
-        <Route path='*' element={<Navigate replace to='/404'/>} />
+        <Route path="*" element={<NotFound/>}/>
         <Route path="/" element={<Home/>}/>
         <Route path="about" element={<About/>}/>
         <Route path="projects" element={<Projects/>}/>
