@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/uslugi_projektowe/static/css/main.a394b301.css",
+    "main.js": "/uslugi_projektowe/static/js/main.8a4d7995.js",
+    "static/media/gal5.JPG": "/uslugi_projektowe/static/media/gal5.a33ebf252d1259fc9f1d.JPG",
+    "static/media/gal2.JPG": "/uslugi_projektowe/static/media/gal2.b14dc7c13a531347f55b.JPG",
+    "static/media/gal6.JPG": "/uslugi_projektowe/static/media/gal6.44a11890a4cc388a0d12.JPG",
+    "static/media/gal8.JPG": "/uslugi_projektowe/static/media/gal8.1acf22a187bcd5cff22b.JPG",
+    "static/media/gal9.JPG": "/uslugi_projektowe/static/media/gal9.b35b4d28f9e310282b40.JPG",
+    "static/media/gal7.JPG": "/uslugi_projektowe/static/media/gal7.e4399a0a37f514b124ba.JPG",
+    "static/media/gal4.JPG": "/uslugi_projektowe/static/media/gal4.06e6edc022b63e00b842.JPG",
+    "static/media/gal3.JPG": "/uslugi_projektowe/static/media/gal3.796cfbb0a587648aac98.JPG",
+    "static/media/gal1.JPG": "/uslugi_projektowe/static/media/gal1.f97bd2b1a8df386631a3.JPG",
+    "static/media/skyscrapers.jpg": "/uslugi_projektowe/static/media/skyscrapers.3c75f36d065f5bc134ca.jpg",
+    "static/media/hangar.jpg": "/uslugi_projektowe/static/media/hangar.a7b1e988c82e156717bf.jpg",
+    "static/media/windows.jpg": "/uslugi_projektowe/static/media/windows.56caf36233ddfe05d30d.jpg",
+    "static/media/telephone.jpg": "/uslugi_projektowe/static/media/telephone.8f1784d0f933e7b82913.jpg",
+    "static/media/worker.jpg": "/uslugi_projektowe/static/media/worker.ff8fefd78bd13af1c3dc.jpg",
+    "static/media/architecture.jpg": "/uslugi_projektowe/static/media/architecture.f0c27a36c0736e8fd4a7.jpg",
+    "static/media/SSM.jpg": "/uslugi_projektowe/static/media/SSM.a80e1f4c52a27508089f.jpg",
+    "static/media/3m.png": "/uslugi_projektowe/static/media/3m.de874995ee5d0581f827.png",
+    "static/media/engineer.jpg": "/uslugi_projektowe/static/media/engineer.591efeb2b4d877509689.jpg",
+    "static/media/robot.png": "/uslugi_projektowe/static/media/robot.4c12e7bd19daec990203.png",
+    "index.html": "/uslugi_projektowe/index.html",
+    "main.a394b301.css.map": "/uslugi_projektowe/static/css/main.a394b301.css.map",
+    "main.8a4d7995.js.map": "/uslugi_projektowe/static/js/main.8a4d7995.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a394b301.css",
+    "static/js/main.8a4d7995.js"
+  ]
+}
