@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/uslugi_projektowe/static/css/main.1b87fa1b.css",
-    "main.js": "/uslugi_projektowe/static/js/main.8a4d7995.js",
+    "main.css": "/uslugi_projektowe/static/css/main.a394b301.css",
+    "main.js": "/uslugi_projektowe/static/js/main.35b815de.js",
     "static/media/gal5.JPG": "/uslugi_projektowe/static/media/gal5.a33ebf252d1259fc9f1d.JPG",
     "static/media/gal2.JPG": "/uslugi_projektowe/static/media/gal2.b14dc7c13a531347f55b.JPG",
     "static/media/gal6.JPG": "/uslugi_projektowe/static/media/gal6.44a11890a4cc388a0d12.JPG",
@@ -22,11 +22,11 @@
     "static/media/engineer.jpg": "/uslugi_projektowe/static/media/engineer.591efeb2b4d877509689.jpg",
     "static/media/robot.png": "/uslugi_projektowe/static/media/robot.4c12e7bd19daec990203.png",
     "index.html": "/uslugi_projektowe/index.html",
-    "main.1b87fa1b.css.map": "/uslugi_projektowe/static/css/main.1b87fa1b.css.map",
-    "main.8a4d7995.js.map": "/uslugi_projektowe/static/js/main.8a4d7995.js.map"
+    "main.a394b301.css.map": "/uslugi_projektowe/static/css/main.a394b301.css.map",
+    "main.35b815de.js.map": "/uslugi_projektowe/static/js/main.35b815de.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b87fa1b.css",
-    "static/js/main.8a4d7995.js"
+    "static/css/main.a394b301.css",
+    "static/js/main.35b815de.js"
   ]
 }
