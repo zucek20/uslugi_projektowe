@@ -2,7 +2,7 @@ import "./styles/Nav.scss"
 import logo from "./img/logo_main.png"
 import { NavLink } from "react-router-dom"
 import burger from "./img/icons/burger.png"
-import { useEffect, useState } from "react"
+import { useState } from "react"
 
 export function Nav() {
   const [active, setActive] = useState(false)
